@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitSkins Animated Hero](![GitSkins animated profile hero](https://www.gitskins.com/api/section/hero?sufiyanahmed120=octocat&theme=studio&style=aura)
+![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=sufiyanahmed120&theme=studio&style=aura  
 </div>
 
 <h1 align="center">Sufiyan Ahmed</h1>
